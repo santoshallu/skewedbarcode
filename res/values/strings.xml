@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinalProjectSkewBarcode</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_display_txt">Detect Barcode</string>
+    <string name="img_id_key">image_id</string>
+    <string name="img_display_msg">Displaying Image </string>
+
+</resources>
